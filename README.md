@@ -107,5 +107,5 @@ Add multi-file upload and drag-and-drop support.
 
 Create a storage usage visualization dashboard.
 
-Developed by [Your Name]
+Developed by Rudra Katkar
 A production-grade implementation of a Personal Cloud Infrastructure.
